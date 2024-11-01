@@ -1,0 +1,17 @@
+.wp-word-cloud-container {
+    display: block;
+    position: relative;
+}
+
+.wp-word-cloud-container li {
+    list-style: none !important;
+    position: absolute;
+
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.wp-word-cloud-container li a {
+    text-decoration: none !important;
+    color: inherit !important;
+}
